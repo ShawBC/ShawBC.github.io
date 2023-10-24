@@ -1,4 +1,6 @@
-# Aspiring Machine Learning Engineer/Scientist 
+# Shaw Chifamba
+
+## Aspiring Machine Learning Scientist
 
 ### Education
 

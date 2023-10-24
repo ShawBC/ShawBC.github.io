@@ -1,6 +1,4 @@
-# Shaw Chifamba
-
-## Solutions Engineer 
+# Aspiring Machine Learning Engineer/Scientist 
 
 ### Education
 
